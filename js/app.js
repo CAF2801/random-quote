@@ -1,5 +1,5 @@
 const quote = document.getElementById('quote');
-console.log(quote);
+console.log('quote', quote);
 const author = document.getElementById('author');
 const button = document.getElementById('button');
 
